@@ -5,3 +5,5 @@ Pokémon recently caused a worldwide craze, with everyone playing it. So, how ca
 II. Research Objectives
 1. Use the Pokémon's height, weight, and stats to predict capture rates.
 2. Classify Pokémon based on their attributes.
+
+Team: 朱嘉翎.顏伯諭
